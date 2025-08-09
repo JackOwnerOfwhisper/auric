@@ -52,7 +52,7 @@ void main() {
 
 ### Building Auric
 ```bash
-git clone https://github.com/yourusername/auric.git
+git clone https://github.com/JackOwnerOfwhisper/auric.git
 cd auric
 g++ -std=c++20 -o auric *.cpp
 ```
